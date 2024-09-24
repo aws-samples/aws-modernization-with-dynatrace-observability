@@ -4,7 +4,7 @@ chapter: true # MAKE SURE YOU SET THIS TO FALSE IF USING SELF-GUIDED SETUP
 weight: 2
 ---
 
-# AWS Hosted Workshop Setup <!-- MODIFY THIS HEADING -->
+# AWS Hosted Workshop <!-- MODIFY THIS HEADING -->
 
 ## Module Two Heading <!-- MODIFY THIS SUBHEADING -->
 
